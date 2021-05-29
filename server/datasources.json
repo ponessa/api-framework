@@ -1,0 +1,11 @@
+{
+  "inventory-items": {
+    "host": "demo.apicww.cloud",
+    "port": 3306,
+    "database": "think",
+    "password": "Passw0rd!",
+    "name": "inventory-items",
+    "connector": "mysql",
+    "user": "student"
+  }
+}
